@@ -1,8 +1,8 @@
 ---
-name: Discord Bot - Bug report
-about: Report a bug with the Discord bot
+name: Website - Bug report
+about: Report a bug with the Website
 title: ''
-labels: P-Discord Bot, T-Bug
+labels: P-Website, T-Bug
 assignees: ''
 
 ---
