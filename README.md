@@ -1,6 +1,6 @@
 # UF GDA - Feedback
 
-Centralized repo for all feedback to the UF GDA team.
+Centralized repo for all feedback to the UF GDA development team.
 
 Here you can report bugs, request features, and discuss the projects
 that we are developing.
