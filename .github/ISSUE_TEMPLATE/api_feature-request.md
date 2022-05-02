@@ -1,5 +1,5 @@
 ---
-name: Api = Feature request
+name: Api - Feature request
 about: Suggest an enhancement to the Website Api
 title: ''
 labels: P-Api, T-Enhancement
