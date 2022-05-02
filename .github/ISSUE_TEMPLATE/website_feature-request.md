@@ -2,7 +2,7 @@
 name: Website - Feature request
 about: Suggest an enhancement to the Website
 title: ''
-labels: P-Website, T-Enhancement
+labels: Website, Enhancement
 assignees: ''
 
 ---

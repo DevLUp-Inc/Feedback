@@ -2,7 +2,7 @@
 name: Api - Bug report
 about: Report a bug with the Website Api
 title: ''
-labels: P-Api, T-Bug
+labels: Api, Bug
 assignees: ''
 
 ---

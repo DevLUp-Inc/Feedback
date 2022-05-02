@@ -2,7 +2,7 @@
 name: Website - Bug report
 about: Report a bug with the Website
 title: ''
-labels: P-Website, T-Bug
+labels: Website, Bug
 assignees: ''
 
 ---

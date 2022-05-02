@@ -2,7 +2,7 @@
 name: Discord Bot - Feature request
 about: Suggest an enhancement to the Discord Bot
 title: ''
-labels: P-Discord Bot, T-Enhancement
+labels: Discord Bot, Enhancement
 assignees: ''
 
 ---
