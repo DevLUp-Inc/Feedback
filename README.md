@@ -11,7 +11,7 @@ Bug reports and other issues can be reported on the [Issues](https://github.com/
 
 We have set up issue templates that make it easy to report detailed bugs and feature requests:
 
-| Product     | Bug Reports                                                                                                                          | Feature Requests                                                                                                                                  |
+| Project     | Bug Reports                                                                                                                          | Feature Requests                                                                                                                                  |
 |-------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | Api         | [Create](https://github.com/UF-GDA/Feedback/issues/new?assignees=&labels=Api%2C+Bug&template=api_bug-report.md&title=)                 | [Create](https://github.com/UF-GDA/Feedback/issues/new?assignees=&labels=Api%2C+Enhancement&template=api_feature-request.md&title=)                 |
 | Discord Bot | [Create](https://github.com/UF-GDA/Feedback/issues/new?assignees=&labels=Discord+Bot%2C+Bug&template=discord-bot_bug-report.md&title=) | [Create](https://github.com/UF-GDA/Feedback/issues/new?assignees=&labels=Discord+Bot%2C+Enhancement&template=discord-bot_feature-request.md&title=) |
